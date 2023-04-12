@@ -5,8 +5,9 @@ FN:Patrick Wan
 NICKNAME:"Pat"
 ORG:Microsoft
 TITLE:Partner Development Manager
-TEL;WORK;VOICE:+61 (2) 88179513
+TEL;WORK;VOICE:+61 (4) 21176599
 TEL;CELL;VOICE:+61 (4) 21176599
+TEL;VOICE:+61 (2) 88179513
 ADR;WORK;PREF:;;C/O Microsoft, Level 27, 1 Denison Street;North Sydney;New South Wales;2077;Australia
 LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE:C/O Microsoft, Level 27, 1 Denison Street=0D=0A=
 North Sydney  New South Wales  2077
@@ -553,5 +554,5 @@ PHOTO;TYPE=JPEG;ENCODING=BASE64:
  rnhQK5pHXTPW7D/j0j/H+ZrySwosKLCrQH//2Q==
 
 X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="tleft" area="37" use="photo"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="text1" align="left" dir="ltr" style="i" color="000000" size="8"/><fld xmlns="" prop="org" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="title" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="telcell" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262"> Mobile</label></fld><fld xmlns="" prop="email" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262">Email/Teams</label></fld><fld xmlns="" prop="webwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
-REV:20230412T113953Z
+REV:20230412T120818Z
 END:VCARD
