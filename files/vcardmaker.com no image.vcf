@@ -3,15 +3,15 @@ VERSION:3.0
 FN;CHARSET=UTF-8:Patrick Wan
 N;CHARSET=UTF-8:Wan;Patrick;;;
 NICKNAME;CHARSET=UTF-8:"Pat"\, He/Him
-EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:patrickwan@microsoft.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:patrickwan@microsoft.com
 TEL;TYPE=CELL:+61 421 176 599
 TEL;TYPE=WORK,VOICE:+61 2 8817 9513
 ADR;CHARSET=UTF-8;TYPE=WORK:;;C/O Microsoft\, Level 27\, 1 Denison St;North Sydney;NSW;2077;Australia
 TITLE;CHARSET=UTF-8:Partner Development Manager
 ROLE;CHARSET=UTF-8:Strategic Recruit - Surface
 ORG;CHARSET=UTF-8:Microsoft
+URL;CHARSET=UTF-8:https://patw.tech
 URL;type=WORK;CHARSET=UTF-8:http://aka.ms/findtimewithpat
 X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/patrick-wan/
-X-SOCIALPROFILE;TYPE=Website:https://patw.tech
-REV:2023-05-09T12:55:42.014Z
+REV:2023-05-09T13:00:08.836Z
 END:VCARD
