@@ -1,19 +1,17 @@
 BEGIN:VCARD
-VERSION:2.1
-N;LANGUAGE=en-us:Wan;Patrick
-FN:Patrick Wan
-NICKNAME:"Pat"
-ORG:Microsoft
-TITLE:Partner Development Manager
-TEL;CELL;VOICE:+61 (4) 21176599
-ADR;WORK;PREF:;;C/O Microsoft, Level 27, 1 Denison Street;North Sydney;New South Wales;2077;Australia
-LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE:C/O Microsoft, Level 27, 1 Denison Street=0D=0A=
-North Sydney  New South Wales  2077
-X-MS-OL-DEFAULT-POSTAL-ADDRESS:2
-URL;WORK:https://aka.ms/findtimewithpat
-EMAIL;PREF;INTERNET:patrickwan@microsoft.com
-X-MS-IMADDRESS:Teams: patrickwan@microsoft.com
-X-MS-TEXT;CUSTOM1:"Pat"
-X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="tleft" area="37" use="photo"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="text1" align="left" dir="ltr" style="i" color="000000" size="8"/><fld xmlns="" prop="org" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="title" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="telcell" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262"> Mobile</label></fld><fld xmlns="" prop="email" align="left" dir="ltr" color="d48d2a" size="8"><label align="right" color="626262">Email/Teams</label></fld><fld xmlns="" prop="webwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
-REV:20230412T124013Z
+VERSION:3.0
+FN;CHARSET=UTF-8:Patrick Wan
+N;CHARSET=UTF-8:Wan;Patrick;;;
+NICKNAME;CHARSET=UTF-8:"Pat"\, He/Him
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:patrickwan@microsoft.com
+TEL;TYPE=CELL:+61 421 176 599
+TEL;TYPE=WORK,VOICE:+61 2 8817 9513
+ADR;CHARSET=UTF-8;TYPE=WORK:;;C/O Microsoft\, Level 27\, 1 Denison St;North Sydney;NSW;2077;Australia
+TITLE;CHARSET=UTF-8:Partner Development Manager
+ROLE;CHARSET=UTF-8:Strategic Recruit - Surface
+ORG;CHARSET=UTF-8:Microsoft
+URL;type=PERSONAL;CHARSET=UTF-8:https://patw.tech
+URL;type=WORK;CHARSET=UTF-8:http://aka.ms/findtimewithpat
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/patrick-wan/
+REV:2023-05-09T13:00:08.836Z
 END:VCARD
